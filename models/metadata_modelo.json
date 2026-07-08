@@ -1,0 +1,1 @@
+{"categoricas": ["ESTACION"], "numericas": ["ANIO", "COD_MES", "TEMP_PROMEDIO_MES", "PRECIPITACION_MES", "TOTAL_LAG_1", "TOTAL_LAG_12", "TOTAL_ROLLING_3"], "categorias_estacion": ["Invierno", "Oto\u00f1o", "Primavera", "Verano"]}
